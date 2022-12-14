@@ -1,0 +1,2 @@
+# Install Ubuntu 20.04[Desktop]
+When i about to start my tasks i was afraid of this task.If i not done this properly then it may lead to erase my enter data.So I took time to complete this in mean time i went to lots of tutorials about ubuntu then i came with an idea i copied all my data to external hard disk then i installed ubuntu unfortunately it failed in 1st attempt then i took some seniors help then in my second attempt i successfully isntalled ubuntu.... Ubuntu User is here..:smile: 
